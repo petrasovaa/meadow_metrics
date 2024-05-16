@@ -1,0 +1,18 @@
+proj:       1
+zone:       10
+north:      4373497.2536126
+south:      4371441.0536126
+east:       722866.1965803
+west:       720656.3965803
+cols:       3683
+rows:       3427
+e-w resol:  0.6
+n-s resol:  0.6
+top:        1.000000000000000
+bottom:     0.000000000000000
+cols3:      3683
+rows3:      3427
+depths:     1
+e-w resol3: 0.6
+n-s resol3: 0.6
+t-b resol:  1
